@@ -124,6 +124,5 @@ test.describe('Dropdown List', () => {
     await expect(optionActuals).toEqual(optionExpected)
     // loan commit 1
     // loan commit 2
-    // loan commit 3, 3.5
   })
 })
